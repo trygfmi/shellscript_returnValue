@@ -35,7 +35,13 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
@@ -55,7 +61,14 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
+git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
@@ -76,7 +89,13 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
@@ -92,7 +111,13 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
@@ -152,7 +177,13 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
@@ -178,7 +209,8 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
+git --version</code></pre>
 
 
 
@@ -205,7 +237,8 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install gitecho 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
+echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
 
 
 
@@ -218,7 +251,14 @@
 
 
 
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
+git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
@@ -313,7 +353,13 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
@@ -329,7 +375,13 @@
 
 
 <div class="wp-block-group">
-<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValuecd shellscript_returnValuechmod 744 printFileName.shchmod 744 start_shellscript_returnValue.shcat printFileName.shcat start_shellscript_returnValue.sh./start_shellscript_returnValue.sh</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/shellscript_returnValue
+cd shellscript_returnValue
+chmod 744 printFileName.sh
+chmod 744 start_shellscript_returnValue.sh
+cat printFileName.sh
+cat start_shellscript_returnValue.sh
+./start_shellscript_returnValue.sh</code></pre>
 
 
 
